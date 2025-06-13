@@ -1,0 +1,21 @@
+# Ignore build results
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows stuff
+desktop.ini
+Thumbs.db
+
+# VS Code
+.vscode/
