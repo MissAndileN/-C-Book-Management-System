@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PRG161 MILESTONE 2\PRG161 MILESTONE 2\bin\Debug\PRG161 MILESTONE 2.exe.config
+C:\Users\User\source\repos\PRG161 MILESTONE 2\PRG161 MILESTONE 2\bin\Debug\PRG161 MILESTONE 2.exe
+C:\Users\User\source\repos\PRG161 MILESTONE 2\PRG161 MILESTONE 2\bin\Debug\PRG161 MILESTONE 2.pdb
+C:\Users\User\source\repos\PRG161 MILESTONE 2\PRG161 MILESTONE 2\obj\Debug\PRG161 MILESTONE 2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PRG161 MILESTONE 2\PRG161 MILESTONE 2\obj\Debug\PRG161 MILESTONE 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PRG161 MILESTONE 2\PRG161 MILESTONE 2\obj\Debug\PRG161 MILESTONE 2.exe
+C:\Users\User\source\repos\PRG161 MILESTONE 2\PRG161 MILESTONE 2\obj\Debug\PRG161 MILESTONE 2.pdb
