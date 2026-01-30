@@ -1,4 +1,4 @@
-# PRG161 Milestone 2
+# C#
 
 This is my Visual Studio C# console application for the PRG161 Milestone 2 assignment.
 
